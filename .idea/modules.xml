@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin_skeleton.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin_skeleton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin_skeleton_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin_skeleton_main.iml" group="kotlin_skeleton" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin_skeleton_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin_skeleton_test.iml" group="kotlin_skeleton" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-skeleton.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-skeleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-skeleton_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-skeleton_main.iml" group="kotlin-skeleton" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-skeleton_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-skeleton_test.iml" group="kotlin-skeleton" />
     </modules>
   </component>
 </project>
